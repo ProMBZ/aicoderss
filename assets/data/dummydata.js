@@ -6,7 +6,7 @@ import { BiUser } from "react-icons/bi"
 export const home = [
   {
     icon: <AiOutlineCalendar size={25} />,
-    title: "10+ years of market experience",
+    title: "1+ years of market experience",
   },
   {
     icon: <TfiRulerPencil size={25} />,
@@ -14,7 +14,7 @@ export const home = [
   },
   {
     icon: <VscFileSubmodule size={25} />,
-    title: "100+ cuccessful cases in portfolio",
+    title: "16+ successful cases in portfolio",
   },
   {
     icon: <BiUser size={25} />,
@@ -50,27 +50,34 @@ export const expertise = [
 export const testimonial = [
   {
     id: 1,
-    name: "Hanan Fadel",
-    cover: "../images/e1.jpg",
-    post: "Founder of CrackInterview",
-    desc: "I had a fantastic experience! The service was efficient and seamless, and the atmosphere was welcoming and pleasant. The team ensured everything was handled with precision and care, making the process smooth and enjoyable. I highly recommend them for their professionalism and attention to detail. I look forward to returning again soon!",
+    name: "Muhammad Rizwan",
+    cover: "../images/e5.jpg",
+    post: "Founder of AMF Consultant",
+    desc: "I had a fantastic experience! The service was efficient and seamless. The team ensured everything was handled with precision and care, making the process smooth and enjoyable. I highly recommend them for their professionalism and attention to detail. I look forward to returning again soon!",
   },
   {
     id: 2,
-    name: "Umair Manzoor Ahmed",
-    cover: "../images/e4.jpg",
-    post: "Director of Teknofest Pakistan",
-    desc: "Top-notch experience! From the moment I walked in, I felt valued as a customer. The team was professional, efficient, and made sure all my needs were met. The quality of their work is excellent, and the whole process was smooth and enjoyable. I will definitely be back and recommend them without hesitation!",
+    name: "Hanan Fadel",
+    cover: "../images/e1.jpg",
+    post: "Founder of CrackInterview",
+    desc: "AI Coders transformed our online presence with a professional, user-friendly website that perfectly represents our brand. Their expertise, attention to detail, and timely delivery made the entire process seamless. Highly recommended for anyone seeking quality web development services to grow their business!",
   },
   {
     id: 3,
     name: "Syed Zohaib Tanwir",
     cover: "../images/e2.jpg",
     post: "General Manager at GIL SYSTEM SMC PVT LTD",
-    desc: "Absolutely outstanding! The quality exceeded my expectations, and the staff was incredibly friendly and knowledgeable. Every detail was thoughtfully handled, making for a truly hassle-free and enjoyable experience. Their commitment to excellence is evident in everything they do. I’m thoroughly impressed and will definitely be recommending them to others!",
+    desc: "Absolutely outstanding! The quality exceeded my expectations. Every detail was thoughtfully handled, making for a truly hassle-free and enjoyable experience. Their commitment to excellence is evident in everything they do. I’m thoroughly impressed and will definitely be recommending them to others!",
   },
   {
     id: 4,
+    name: "Umair Manzoor Ahmed",
+    cover: "../images/e4.jpg",
+    post: "Director of Teknofest Pakistan",
+    desc: "Top-notch experience!  The team was professional, efficient, and made sure all my needs were met. The quality of their work is excellent, and the whole process was smooth and enjoyable. I will definitely be back and recommend them without hesitation!",
+  },
+  {
+    id: 5,
     name: "Bushra Zohaib",
     cover: "../images/e3.jpg",
     post: "Founder of AL-BUROOJ Online",

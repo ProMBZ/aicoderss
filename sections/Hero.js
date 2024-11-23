@@ -3,8 +3,9 @@ import Banner from "@/components/Banner"
 import Expertise from "@/components/Expertise"
 import ShowCase from "@/components/ShowCase"
 import Testimonial from "@/components/Testimonial"
-import { Title, TitleLogo, TitleSm } from "@/components/common/Title"
+import { Title, TitleSm } from "@/components/common/Title"
 import { BlogCard, Brand } from "@/components/router"
+import Contact from "@/sections/Contact"
 import React from "react"
 
 const Hero = () => {
@@ -48,6 +49,7 @@ const Hero = () => {
         <Title title='Latest news & articles' />
       </div>
       <BlogCard />
+      <Contact />
     </>
   )
 }

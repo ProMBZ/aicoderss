@@ -40,12 +40,6 @@ const Contact = () => {
                   <BsFacebook size={25} />
                 </li>
                 <li className='icon'>
-                  <AiFillBehanceCircle size={25} />
-                </li>
-                <li className='icon'>
-                  <AiFillInstagram size={25} />
-                </li>
-                <li className='icon'>
                   <AiFillLinkedin size={25} />
                 </li>
               </ul>

@@ -25,13 +25,10 @@ const Footer = () => {
               <h3>+92 336 0327970</h3>
               <h3>aicoders123@gmail.com</h3>
               <br />
-              <button className='button-primary'>Request for quote</button>
+              <button className='button-primary'>Contact Us</button>
             </div>
             <ul>
               <h3>COMPANY</h3>
-              <li>
-                <Link href='/'>About agency</Link>
-              </li>
               <li>
                 <Link href='/'>Our team</Link>
               </li>
@@ -72,17 +69,7 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href='/'>
-                    <AiFillBehanceCircle size={25} />
-                  </Link>
-                </li>
-                <li>
-                  <Link href='/'>
-                    <AiFillInstagram size={25} />
-                  </Link>
-                </li>
-                <li>
-                  <Link href='/'>
+                  <Link href='https://www.linkedin.com/company/ai-coders'>
                     <AiFillLinkedin size={25} />
                   </Link>
                 </li>
